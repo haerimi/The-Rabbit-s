@@ -39,7 +39,7 @@
 ![image](https://github.com/user-attachments/assets/40ca93bc-9b82-4c51-affa-64baa8eba13d)
 ![image](https://github.com/user-attachments/assets/16f9f39a-1753-4b4d-a4ce-ebb73d8f1e96)
 ![image](https://github.com/user-attachments/assets/fcb5eabd-d37b-44ea-b028-f141e3b0cc94)
-![image](https://github.com/user-attachments/assets/59da9d63-be54-4cbf-b8ee-56196602570d)
+![image](https://github.com/user-attachments/assets/5cc10181-3749-4dd7-ac77-131cba99c8ab)
 
 ## 개발 환경
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
